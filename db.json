@@ -1,5 +1,4 @@
-{
-  "users":[
+[
 {
 "id": 1,
 "name": "João da Silva",
@@ -37,4 +36,4 @@
 "gender": "Male"
 }
 ]
-}
+
