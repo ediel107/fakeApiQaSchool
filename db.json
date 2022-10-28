@@ -30,6 +30,12 @@
 "name": "Maria de Alcantara",
 "age": 30,
 "gender": "Female"
+},
+  {
+"id": 6,
+"name": "Sebastiana do Couto Bregagnolo",
+"age": 30,
+"gender": "Female"
 }
 ]
 }
