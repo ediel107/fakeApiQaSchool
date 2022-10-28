@@ -25,15 +25,9 @@
 },
 {
 "id": 5,
-"name": "José de Alcantara",
+"name": "Maria de Alcantara",
 "age": 30,
-"gender": "Male"
-},
-{
-"id": 6,
-"name": "Sebastiana do Couto Bregagnolo",
-"age": 30,
-"gender": "Male"
+"gender": "Female"
 }
 ]
 
